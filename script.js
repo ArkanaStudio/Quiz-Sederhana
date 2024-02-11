@@ -2,37 +2,37 @@ const questions = [
     {
         question: "Siapa nama ibu arkana?",
         answers: [
-            { text: "Siti", correct: false},
+            { text: "Jessica", correct: false},
             { text: "Nurul", correct: true},
-            { text: "Juleha", correct: false},
-            { text: "Ratna", correct: false},
+            { text: "Raisa", correct: false},
+            { text: "Isyana", correct: false},
         ]
     },
     {
         question: "Siapa nama ayah arkana?",
         answers: [
-            { text: "Usman", correct: false},
-            { text: "Mardali", correct: false},
+            { text: "John", correct: false},
+            { text: "David", correct: false},
             { text: "Dwika", correct: true},
-            { text: "Sobri", correct: false},
+            { text: "Ronald", correct: false},
         ]
     },
     {
     question: "Berapa tanggal lahir arkana",
         answers: [
             { text: "23-11-2019", correct: true},
-            { text: "23-08-1945", correct: false},
-            { text: "30-02-2020", correct: false},
-            { text: "25-08-2020", correct: false},
+            { text: "20-08-2018", correct: false},
+            { text: "27-11-2019", correct: false},
+            { text: "25-02-2019", correct: false},
         ]
     },
     {
         question: "Apa makanan kesukaan arkana?",
             answers: [
-                { text: "Combro", correct: false},
-                { text: "Jengkol", correct: false},
-                { text: "Pete", correct: false},
-                { text: "Lele", correct: true},
+                { text: "Telor", correct: false},
+                { text: "Ikan Nila", correct: false},
+                { text: "Ayam Goreng", correct: false},
+                { text: "Ikan Lele", correct: true},
             ]
         }
 ];
